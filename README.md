@@ -27,4 +27,3 @@ The Guided Project environment includes a Cloud IDE and a run-time environment t
 Nama: David Hamonangan Sirait<br>
 Program: IBM Advance AI<br>
 Personal Mentor: Siska Anggraeni<br>
-Author: @Svitlana Kramar
